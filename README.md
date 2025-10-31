@@ -68,3 +68,13 @@ Build a web-based spreadsheet app called "Easy-Sheets" with the following requir
 ## Goal
 A functional, secure, cloud-based spreadsheet that’s simple enough for non-technical users, but modular enough for future features like real-time collaboration.
 
+
+# GitHub Copilot Prompt:
+# Write setup instructions for Easy-Sheets:
+# - How to install dependencies
+# - Configure .env
+# - Run database migrations
+# - Start server
+# - Access admin panel
+
+
